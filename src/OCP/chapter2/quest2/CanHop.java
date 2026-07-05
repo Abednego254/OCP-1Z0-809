@@ -1,7 +1,5 @@
 package OCP.chapter2.quest2;
 
-import sun.text.resources.cldr.ext.FormatData_rof;
-
 public interface CanHop {}
 class Frog implements CanHop {
     public static void main(String[] args) {
