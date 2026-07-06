@@ -9,7 +9,7 @@ public enum AnimalClasses {
         this.hasHair = hasHair;
     }
 
-    public boolean hasHair() {
+    public boolean asHair() {
         return hasHair;
     }
 
